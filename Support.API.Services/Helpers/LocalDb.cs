@@ -12,7 +12,7 @@ public static class LocalDb
         { "SUPPORT_DB_USER", "user" },
         { "SUPPORT_DB_PASSWORD", "password" },
 
-        { "KOBO_DB_SERVER", "192.168.59.129" },
+        { "KOBO_DB_SERVER", "192.168.5.151" },
         { "KOBO_DB_PORT", "5435"},
         { "KOBO_DB_NAME", "koboform"},
         { "KOBO_CAT_DB_NAME", "kobocat"},
